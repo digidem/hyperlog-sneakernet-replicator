@@ -16,17 +16,17 @@
   "author": "substack",
   "license": "BSD",
   "dependencies": {
-    "debug": "^2.2.0",
-    "end-of-stream": "^1.1.0",
-    "graceful-fs": "^4.1.9",
-    "hyperlog": "^4.8.0",
-    "level": "^1.4.0",
+    "debug": "^4.1.1",
+    "end-of-stream": "^1.4.1",
+    "graceful-fs": "^4.1.15",
+    "hyperlog": "^4.12.1",
+    "level": "^4.0.0",
     "once": "^1.3.3",
-    "pump": "^1.0.1",
-    "tar-fs": "^1.13.2"
+    "pump": "^1.0.3",
+    "tar-fs": "^2.0.0"
   },
   "devDependencies": {
-    "tape": "^4.5.1",
-    "tmp": "0.0.29"
+    "tape": "^4.10.1",
+    "tmp": "0.0.33"
   }
 }
